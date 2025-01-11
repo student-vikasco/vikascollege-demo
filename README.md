@@ -1,4 +1,4 @@
 # vikascollege-demo
 this is my first repository
 <br>
-Author-punam virkar
+Author-punam virkar(lokhande)
